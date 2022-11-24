@@ -1,0 +1,67 @@
+.bg-container {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 120vh;
+}
+
+.a1 {
+    color: #ffffff;
+    font-family: "roboto";
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+    font-size: 27px;
+}
+
+.a2 {
+    background-color: #ffffff;
+    border-radius: 16px;
+    margin: 11px;
+}
+
+.a3 {
+    color: #ffffff;
+}
+
+.a4 {
+    margin: 10px;
+}
+
+.a5 {
+    margin: 20px;
+    padding: 5px;
+}
+
+.a6 {
+    font-size: 25px;
+}
+
+.a7 {
+    font-size: 10px;
+    color: #9aa5b1;
+}
+
+.a8 {
+    font-size: 9px;
+}
+
+.a9 {
+    margin: 15px;
+}
+
+.a10 {
+    margin: 9px;
+    font-weight: bold;
+}
+
+.a11 {
+    text-align: center;
+}
+
+.a12 {
+    padding: 10px;
+}
+
+.a13 {
+    font-size: 14px;
+}
